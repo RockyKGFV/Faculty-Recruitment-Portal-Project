@@ -6,7 +6,7 @@ This is a Node.js application that connects to a MySQL database. It uses Docker 
 
 1. Clone the repository:
 
-git clone https://github.com/RockyKGFV/Faculty Recruitment Portal.git
+git clone https://github.com/RockyKGFV/Faculty-Recruitment-Portal-Project.git
 cd Faculty Recruitment Portal/proj1
 
 
